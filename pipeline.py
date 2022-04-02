@@ -11,21 +11,21 @@ tokenizer = AutoTokenizer.from_pretrained("vinai/phobert-base", use_fast=False)
 
 # -------Load model saved-----------------#
 
-img2kw_conf_path = os.path.join(args.Img2Kw_model, 'config.json')
+img2kw_conf_path = os.path.join(args['Img2Kw_model'], 'config.json')
 
 parser = parser_args()
 parser.add_argument('--config', help='config file', default= img2kw_conf_path)
 parser.add_argument('-f')
-args = parser.parse_args()
+img2kw_args = parser.parse_args()
 
-vis_extractor = Query2Label(args)
+vis_extractor = Query2Label(img2kw_args)
 # infer.main(args)
 
 
 configuration = {'num_beams': 5, 'max_length': 256, "architectures": ["GPT2LMHeadModel"]}
 config = PretrainedConfig()
 config.from_dict(configuration)
-poem = pipeline('text-generation', model=args.Kw2Poem_model,
+poem = pipeline('text-generation', model=args['Kw2Poem_model'],
                 tokenizer=tokenizer,
                 config=config)
 

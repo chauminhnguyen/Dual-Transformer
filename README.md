@@ -25,9 +25,9 @@ Dual-Transformer is the framework with the input is an scenery image and the out
     streamlit run app.py
 ```
 
-![The general of the Img2Poem website](/Images/general.png "The Img2Poem website")
+<!-- ![The general of the Img2Poem website](/Images/general.png "The Img2Poem website")
 
-![Infer an image](/Images/infer.png "The Img2Poem website")
+![Infer an image](/Images/infer.png "The Img2Poem website") -->
 
 ## Train Model
 
