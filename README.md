@@ -42,6 +42,8 @@ The code has been put on [HuggingFace's Space](https://huggingface.co/spaces/cry
 
 ### Train Image-to-Keywords Model
 
+Link [data](https://drive.google.com/file/d/1UwZPI0Tu5qWQQV6x8c6VwBxLSnXJiGyH/view?usp=sharing).
+
 I used [Query2Label](https://github.com/SlongLiu/query2labels) for Image-to-Keywords Model. The command below is used to train on my Image-to-Keywords dataset.
 
 ```sh
@@ -56,6 +58,8 @@ I used [Query2Label](https://github.com/SlongLiu/query2labels) for Image-to-Keyw
 ```
 
 ### Tran Keywords-to-Poem Model
+
+Data is located in /data.
 
 I used [GPT-2](https://huggingface.co/gpt2) for Keywords-to-Poem model.
 
