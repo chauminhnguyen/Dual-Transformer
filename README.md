@@ -57,7 +57,7 @@ I used [Query2Label](https://github.com/SlongLiu/query2labels) for Image-to-Keyw
                 --amp --workers 2
 ```
 
-### Tran Keywords-to-Poem Model
+### Train Keywords-to-Poem Model
 
 Data is located in /data.
 
