@@ -1,0 +1,4 @@
+{
+    "Img2Kw_model": "./models/Query2labels",
+    "Kw2Poem_model": "./models/GPT2"
+}
