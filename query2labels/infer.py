@@ -68,8 +68,8 @@ def parser_args():
                         help='number of data loading workers (default: 8)')
     parser.add_argument('-p', '--print-freq', default=10, type=int,
                         metavar='N', help='print frequency (default: 10)')
-    parser.add_argument('--resume', type=str, metavar='PATH',
-                        help='path to latest checkpoint (default: none)')
+    # parser.add_argument('--resume', type=str, metavar='PATH',
+    #                     help='path to latest checkpoint (default: none)')
 
     parser.add_argument('--pretrained', dest='pretrained', action='store_true',
                         help='use pre-trained model. default is False. ')

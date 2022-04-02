@@ -2,6 +2,8 @@
 
 Dual-Transformer is the framework with the input is an scenery image and the output is Vietnamese six-eight poem. The generated poem is related to the input image by containing the objects from the input image.
 
+The code has been put on [HuggingFace's Space](https://huggingface.co/spaces/crylake/img2poem)
+
 ## Installation
 
 1. Clone the repository:
@@ -12,20 +14,27 @@ Dual-Transformer is the framework with the input is an scenery image and the out
 
 2. Install the requirements
 
- - Install NVIDIA driver.
+ - Install cuda.
 
  - Install the requirements.
 
 ```sh
     pip install -r requirements.txt
 ```
-3. Start the model
+
+3. Modify the path
+
+- Modify the config.json for Query2labels and GPT-2 models path.
+
+- Modify the Query2labels's config.json *(default: models/Query2labels/config.json)* for the pretrained's path.
+
+4. Start the model
 
 ```sh
     streamlit run app.py
 ```
 
-<!-- ![The general of the Img2Poem website](/Images/general.png "The Img2Poem website")
+![The general of the Img2Poem website](/Images/general.png "The Img2Poem website")
 
 ![Infer an image](/Images/infer.png "The Img2Poem website") -->
 

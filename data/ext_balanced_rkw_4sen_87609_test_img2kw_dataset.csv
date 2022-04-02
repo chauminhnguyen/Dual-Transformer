@@ -1,0 +1,1124 @@
+	prefix	input_text	target_text
+0	0	tóc lối cỏ nắng	2059
+1	1	bờ sông làng dòng	188
+2	2	đêm biển đông	2436
+3	3	lối quê nắng	313
+4	4	gió sông chim diều dòng	1365
+5	5	đời đêm thơ quê diều chiều tiếng	2214
+6	6	đời chiều	361
+7	7	lúa nắng	208
+8	8	mây núi	2051
+9	9	cát biển sóng	1260
+10	10	quê tre	862
+11	11	hè nắng	737
+12	12	bến tiếng dòng	186
+13	13	hoa phố mùa	1883
+14	14	biển đất_trời quê_hương	1488
+15	15	đời quê	1306
+16	16	đất_trời sông dòng	1975
+17	17	thềm hoa cánh đêm trầu	1919
+18	18	sân chùa mùa	185
+19	19	sông đời đêm quê dòng	1598
+20	20	hoa tóc mây sông bến chiều	2364
+21	21	vàng nắng	124
+22	22	lúa gió bờ tre	735
+23	23	đêm hoa	2366
+24	24	bóng làng	305
+25	25	chân đò chiều mắt	1397
+26	26	hoa cánh mưa	914
+27	27	chân đò bóng mắt	1397
+28	28	màu đời	1575
+29	29	môi nắng	2411
+30	30	hoa gió sông cỏ dòng	1443
+31	31	mái xuân mùa lá trưa	2394
+32	32	quê mưa	1177
+33	33	ruộng duyên quê	810
+34	34	đời đất_trời	291
+35	35	gió xuân màu đêm	1267
+36	36	mái bờ chiều	1016
+37	37	hoa phượng sông quê_hương	996
+38	38	thuyền đời hồn	455
+39	39	hồn biển sóng	1982
+40	40	gió xuân mây mưa chiều	1680
+41	41	hoàng_hôn trăng chiều	973
+42	42	hương sắc sương đêm miền	874
+43	43	gió bờ đông vai nắng	1716
+44	44	sân quê_hương làng	1863
+45	45	cánh cò	1944
+46	46	lưng hè đường nắng trưa	1597
+47	47	chùa mùa bến	503
+48	48	hương gió xuân	1259
+49	49	hương hoa cau tóc mùa	1438
+50	50	hoa sắc đời sóng đất_trời	1189
+51	51	hương hoa cánh dáng quê miền	2250
+52	52	sông đêm sóng miền	589
+53	53	làng chiều	509
+54	54	cát thuyền biển chiều	139
+55	55	sông dòng bến chiều	1591
+56	56	hương cau tóc mùa	1438
+57	57	cánh bến hoàng_hôn	1360
+58	58	hoa vườn sông bến dòng	2037
+59	59	đê chân	2255
+60	60	bóng chiều	1079
+61	61	lúa mùa làng tiếng	1146
+62	62	mái sân chân	1971
+63	63	môi nắng	2482
+64	64	chân đêm vương	1221
+65	65	hoa gió cỏ	2360
+66	66	duyên quê mưa chiều	10
+67	67	hoa cánh cau áo cò tiếng	1753
+68	68	gió lá	558
+69	69	sắc hoa thơ	502
+70	70	tiếng trăng xuân	1568
+71	71	thềm sương đêm tiếng vàng lá	539
+72	72	lúa áo sương vai lá nắng miền	1074
+73	73	lưng áo lối nắng	2363
+74	74	sông đêm bến vai	1621
+75	75	hồn hương trăng vầng miền	1008
+76	76	mùa mưa nắng phố	46
+77	77	lúa hương mây quê chiều	2183
+78	78	đời hồn	374
+79	79	lúa dòng	1064
+80	80	chân trăng	1370
+81	81	đường quê bóng chiều nắng	618
+82	82	bến trăng bóng chiều vàng	1787
+83	83	đò quê bến	635
+84	84	vạt cỏ miền	2336
+85	85	hương xuân chùa mưa	2541
+86	86	gió tiếng đất_trời mắt	1665
+87	87	sông duyên biển đò	1749
+88	88	dòng miền	2266
+89	89	cau đời đêm trầu	101
+90	90	gió cát đời hồn	1899
+91	91	quê làng	2040
+92	92	núi sông đời biển	1950
+93	93	đêm đường	2162
+94	94	gió duyên mưa dòng	1959
+95	95	hoa mái xuân chùa mùa	817
+96	96	gió mưa chiều	1093
+97	97	hoa xuân chim	209
+98	98	hoa sắc dáng	1641
+99	99	biển thơ quê miền	2064
+100	100	thềm hoa màu sương	1803
+101	101	hương bóng mùa tre lá nắng	2072
+102	102	sông đò mưa sóng	1091
+103	103	gió cát đời	1899
+104	104	tóc dáng làng	1610
+105	105	hoa mùa môi	838
+106	106	mây đường	2060
+107	107	hoa xuân chân đường	832
+108	108	lúa cánh	1271
+109	109	hoa trăng bóng quê vai hồn	2129
+110	110	biển sóng	1420
+111	111	cánh gió thơ chiều	2439
+112	112	rừng tiếng chiều	1789
+113	113	sông đời	1978
+114	114	hoa nắng	1645
+115	115	sông bến đời mùa đông	1070
+116	116	biển sóng	324
+117	117	hoa gió diều chiều	1720
+118	118	cánh chim đường làng vàng	426
+119	119	mùa lá	2141
+120	120	lối hoa	780
+121	121	gió vườn đất_trời	1416
+122	122	gió núi mây trăng mưa	888
+123	123	hương hè đời mưa	1361
+124	124	bóng hoa mắt	2522
+125	125	màu mây chiều cỏ	2003
+126	126	gió nắng	2287
+127	127	sân quê miền	363
+128	128	vườn bờ thơ	1386
+129	129	vạt hoa cánh lối đêm vàng nắng	1457
+130	130	hương gió lá	1140
+131	131	sông đông	1005
+132	132	hương đường quê	2085
+133	133	hoa lưng cánh cau áo cò	1753
+134	134	hoa lối đường trưa nắng	300
+135	135	hoa vườn	696
+136	136	xuân đời	2061
+137	137	hè nắng	2432
+138	138	đời môi chiều	361
+139	139	gió phượng hè tiếng	788
+140	140	mùa mưa lá trầu	287
+141	141	mây bờ bóng	1839
+142	142	trăng vàng mây	193
+143	143	tóc mây	2520
+144	144	gió đêm	2357
+145	145	thềm tóc bến	723
+146	146	gió cánh xuân chim nắng	607
+147	147	hoa trăng	2508
+148	148	dáng trăng	331
+149	149	vạt vương	330
+150	150	xuân núi sông mùa	853
+151	151	hoa mưa	1535
+152	152	thềm hoa màu	1803
+153	153	lối chân đường sóng dòng	916
+154	154	quê tiếng quê_hương	964
+155	155	mây trăng đêm	1613
+156	156	mây sông bến	2261
+157	157	lúa hương cánh sương sông dòng	1540
+158	158	lúa hương cánh gió sương sông	1540
+159	159	thuyền chim trăng sóng tiếng vầng	2339
+160	160	vườn cau	2318
+161	161	chim tiếng cỏ	674
+162	162	sương mùa đêm	53
+163	163	quê mái	2271
+164	164	lá trầu	2265
+165	165	thềm tóc dáng bến	723
+166	166	lúa vạt quê mùa	1560
+167	167	sương tiếng	1709
+168	168	thuyền đời bến môi	1113
+169	169	mây đời quê vầng vai sóng	628
+170	170	bờ sông dòng	62
+171	171	mây trăng môi	1838
+172	172	đê cõi đời duyên quê làng hồn	196
+173	173	hè bờ chân tre vàng trưa nắng	738
+174	174	hạt bến duyên bóng đông chiều	1284
+175	175	mắt nắng	1120
+176	176	thuyền chiều áo bờ biển	984
+177	177	sương vương chiều	75
+178	178	lúa hương hạt trăng quê nắng mắt	269
+179	179	hoa mắt	1414
+180	180	hương gió hoàng_hôn môi chiều	1405
+181	181	xuân thuyền chân đò mùa miền	1756
+182	182	chân thơ sóng quê_hương	1408
+183	183	ruộng sắc	297
+184	184	gió cỏ	2360
+185	185	hoa vườn sông bến dòng	2037
+186	186	bờ tre	1191
+187	187	đường hương hoa mưa	953
+188	188	sông mùa	1435
+189	189	sương vàng lá	2325
+190	190	lúa mây sóng	742
+191	191	vạt áo	1278
+192	192	thuyền bến	508
+193	193	hạt sắc	1862
+194	194	cánh vườn cò nắng	212
+195	195	gió cát đời hồn	1899
+196	196	gió vương chiều vàng lá hồn	1035
+197	197	lúa mùa tiếng	1831
+198	198	bến mưa sóng	2032
+199	199	áo nắng	348
+200	200	hoa xuân mùa môi	838
+201	201	áo sông dòng	122
+202	202	hoa dáng bến	311
+203	203	gió cánh cát bờ sóng	694
+204	204	hoa thuyền xuân chân đò mùa miền	1756
+205	205	đời hồn	772
+206	206	phố sông đời bến	1805
+207	207	lưng chân chùa vầng	1993
+208	208	biển đông sóng	2453
+209	209	đê sông cỏ dòng	1133
+210	210	chim quê nắng hồn	353
+211	211	lối trăng	929
+212	212	gió chiều	1844
+213	213	mây sông dòng vàng nắng	613
+214	214	môi tiếng nắng	49
+215	215	đất_trời vàng lá tiếng	276
+216	216	phố đời bến	1805
+217	217	hương thơ	1258
+218	218	xuân thơ	1211
+219	219	hoàng_hôn trăng chiều	973
+220	220	gió mây thơ chiều hồn	2470
+221	221	hoa cánh màu mưa nắng	2440
+222	222	sông gió bến	2100
+223	223	gió tóc chiều sông đường quê sóng	630
+224	224	sắc ruộng nắng	1972
+225	225	dáng chim mưa chiều tiếng	51
+226	226	sương sông	886
+227	227	áo dáng vai	2564
+228	228	gió trăng	1751
+229	229	xuân sông duyên biển đò	1749
+230	230	sông bến quê	187
+231	231	đêm mưa	1119
+232	232	hoàng_hôn núi môi	1642
+233	233	gió trăng	213
+234	234	gió thuyền sông trăng	1867
+235	235	thuyền mây vai nắng	1664
+236	236	áo làng cỏ	310
+237	237	mùa mưa trầu	287
+238	238	cõi bờ sông sóng	1970
+239	239	duyên thuyền	2429
+240	240	hương tiếng phố	23
+241	241	trăng xuân	1286
+242	242	hồn xuân	583
+243	243	hương hoa	445
+244	244	chiều hồn	1589
+245	245	thuyền đời	455
+246	246	đê cõi duyên quê làng hồn	196
+247	247	mây chim tiếng mắt	1325
+248	248	hồng sân bờ nắng mắt	1718
+249	249	bóng đất_trời nắng	2138
+250	250	thềm gió bờ	612
+251	251	môi mưa	1853
+252	252	mái xuân mùa trưa	2394
+253	253	sông đời bến mùa đông	1070
+254	254	lối dòng	706
+255	255	hoa gió xuân	889
+256	256	cánh phượng sông quê	82
+257	257	núi sông đời	1950
+258	258	bến đò vàng	1910
+259	259	bờ đời trăng	413
+260	260	trăng đêm tiếng	1130
+261	261	hồng hoa sông trăng sóng quê_hương	2462
+262	262	gió sương lá chiều vàng vương hồn	1035
+263	263	hoa sóng hồn	2157
+264	264	môi hồn	385
+265	265	tiếng núi mây	1882
+266	266	sương đêm	206
+267	267	bến mùa chiều	314
+268	268	cánh cò bóng chiều	1700
+269	269	sông đời	2389
+270	270	cánh sông cò mưa nắng	624
+271	271	đời đường bóng chiều tiếng	125
+272	272	áo hè đường	658
+273	273	áo mưa lá nắng	643
+274	274	tóc bóng nắng vương hồn	432
+275	275	xuân áo	499
+276	276	hương vàng miền	1813
+277	277	mây tiếng lá mắt	1325
+278	278	mùa tiếng	1831
+279	279	duyên nắng	1909
+280	280	hương mây	128
+281	281	gió mắt nắng hồn	302
+282	282	cõi chùa lá	299
+283	283	hương tóc	195
+284	284	gió cõi thuyền sông lá	2588
+285	285	mái sương đời đêm mùa	376
+286	286	hương vườn mùa tiếng cỏ	411
+287	287	lúa chùa làng vàng	234
+288	288	sông bến quê nắng	109
+289	289	gió đời chiều mắt	1459
+290	290	đời cò thơ nắng	872
+291	291	hoa gió	1409
+292	292	bóng chiều	333
+293	293	đường hoa	160
+294	294	chiều tiếng sóng	2514
+295	295	cỏ sương	854
+296	296	xuân đò đường đông	864
+297	297	lối núi mây	137
+298	298	bóng vườn trăng thơ	2283
+299	299	lúa hương gió sông cò quê mùa dòng	1895
+300	300	hoa hương tóc lối mùa	1118
+301	301	màu áo bến đò	1964
+302	302	sân mùa lá	762
+303	303	sương đêm	53
+304	304	hương gió xuân miền	2096
+305	305	nắng chiều	176
+306	306	hoa trăng	1128
+307	307	phượng cỏ	2043
+308	308	hoa cau vườn	592
+309	309	biển sóng	177
+310	310	ruộng quê	810
+311	311	lưng trăng mắt	1807
+312	312	lưng chiều sông làng mưa tre lá	116
+313	313	gió hè sông bờ tre tiếng dòng nắng	149
+314	314	sương chân đường làng phố	506
+315	315	gió chùa hoàng_hôn chiều lá nắng	717
+316	316	áo ruộng nắng	2501
+317	317	hè chiều	829
+318	318	cánh ruộng diều trầu	379
+319	319	trăng vàng	2499
+320	320	hương vàng	1900
+321	321	gió chùa hoàng_hôn làng chiều lá nắng	717
+322	322	lúa mùa	1099
+323	323	gió nắng chiều	2408
+324	324	hoa bến	1593
+325	325	biển chiều nắng	1715
+326	326	xuân bóng mùa lá	1173
+327	327	hoa vườn chim chân	2005
+328	328	vàng lá mưa	1061
+329	329	đê thuyền sông quê nắng	141
+330	330	hoa xuân chân lá	1222
+331	331	mái bờ quê tre trưa	1167
+332	332	cát đò	1735
+333	333	mùa làng tiếng	1146
+334	334	hồng núi bóng dòng	734
+335	335	gió mây chân sông nắng	2
+336	336	vườn hoa	824
+337	337	lúa xuân áo	66
+338	338	hoa làng đất_trời vương	1640
+339	339	vàng chân	1174
+340	340	đêm biển sóng	754
+341	341	phượng mùa nắng	751
+342	342	chim thơ trăng tiếng nắng	2228
+343	343	vạt hoa cánh lối đêm nắng	1457
+344	344	đêm tiếng	2524
+345	345	cau cát vườn vàng trầu	2194
+346	346	sông bến đò lá cỏ	420
+347	347	đê áo mưa cỏ	1437
+348	348	hoa cau vườn bến duyên trầu	1733
+349	349	chim mùa	54
+350	350	hương hoa gió sắc thơ tiếng vàng lá nắng	1341
+351	351	hoa vườn bến dòng	2037
+352	352	áo chiều	1841
+353	353	lối đường chiều	1136
+354	354	hương xuân sương hoàng_hôn bóng nắng	2585
+355	355	gió mưa vàng	1010
+356	356	hồng xuân	871
+357	357	lá màu	290
+358	358	cánh sông thơ diều	1722
+359	359	tóc trăng chiều cỏ	20
+360	360	hồn gió bờ	1247
+361	361	gió xuân thơ lá	1515
+362	362	hồng mây sông mưa nắng	1305
+363	363	sương cò	1087
+364	364	bến đêm biển	282
+365	365	lá gió	235
+366	366	cõi biển hồn	971
+367	367	lúa mùa làng mắt	1248
+368	368	hoa thuyền chân đò mùa miền	1756
+369	369	hồng mây sông nắng	1305
+370	370	cánh phượng sông	82
+371	371	gió núi nắng	2287
+372	372	lối núi bóng mắt	1548
+373	373	hương tiếng phố	621
+374	374	hương xuân	870
+375	375	hoa tóc áo	1636
+376	376	lúa mắt	2066
+377	377	vườn quê vàng	380
+378	378	tiếng hương	1014
+379	379	gió đông mắt	821
+380	380	hoa gió mây	2210
+381	381	bến đò tiếng dòng	186
+382	382	làng vàng nắng	2580
+383	383	sông hoàng_hôn quê bóng vàng	1747
+384	384	lúa hương hồng nắng	442
+385	385	áo sương tiếng	1375
+386	386	cánh thơ diều chiều	1722
+387	387	hương sông mùa tre lá nắng	2072
+388	388	hồng hoa xuân bóng nắng	2506
+389	389	tiếng phố	283
+390	390	bến sóng	2032
+391	391	gió hồn	811
+392	392	đất_trời duyên	543
+393	393	thềm chim đêm tiếng nắng	1708
+394	394	hoa phượng sân đường	2335
+395	395	cánh thuyền sông bến	2383
+396	396	gió trăng	1751
+397	397	mưa chiều nắng	548
+398	398	sắc biển quê sóng tiếng dòng	1987
+399	399	lối sương trăng đêm quê	1542
+400	400	thềm gió nắng lá miền	1546
+401	401	tiếng chim rừng	828
+402	402	sương diều cỏ miền	1026
+403	403	mây núi	295
+404	404	chân quê làng tre	2349
+405	405	rừng gió mây bóng	1037
+406	406	cõi sông bờ quê sóng	1970
+407	407	chùa lá hồn	299
+408	408	lúa đêm	1228
+409	409	hoa vườn chân đường	2005
+410	410	gió nắng chiều	466
+411	411	vàng đông hồn miền	2497
+412	412	hồn biển	1982
+413	413	hoa vườn sông bến dòng	2037
+414	414	hương biển sóng	2386
+415	415	chùa mưa	488
+416	416	hoa lưng cau cánh áo cò tiếng	1753
+417	417	đường quê_hương	960
+418	418	môi trầu	2163
+419	419	mái bờ chiều	1016
+420	420	rừng cánh tóc chiều lá	1398
+421	421	bóng đông	2444
+422	422	hương sóng	2386
+423	423	cánh đêm diều	2190
+424	424	cau trầu	2581
+425	425	hương hoa lưng màu núi	933
+426	426	sông bờ	1009
+427	427	mắt biển chiều	47
+428	428	mái xuân mùa lá trưa	2394
+429	429	gió xuân mùa	841
+430	430	cò nắng	208
+431	431	chiều gió hồn	811
+432	432	chân làng sóng	1611
+433	433	hoa làng	1606
+434	434	biển xuân	1139
+435	435	lúa quê_hương thuyền	974
+436	436	gió cánh biển tiếng quê_hương	2463
+437	437	hồng thuyền	1109
+438	438	hương vườn hè chim quê tiếng	390
+439	439	hương sông dòng nắng	1647
+440	440	gió cát mây sông chân nắng	2
+441	441	gió hoàng_hôn chiều	1129
+442	442	hồng hoa xuân	871
+443	443	hoa trăng bóng quê vương hồn	2129
+444	444	rừng gió mùa chiều tiếng lá	1038
+445	445	hạt đêm trăng	2069
+446	446	quê dáng quê_hương chiều	778
+447	447	cánh hoa mưa	914
+448	448	vạt gió chiều nắng	2408
+449	449	sông bến đò cỏ	420
+450	450	hương vườn trăng	72
+451	451	cánh chiều tiếng dòng	81
+452	452	áo sông bến	1592
+453	453	bờ sông trăng thơ dòng	1225
+454	454	đất_trời nắng	2123
+455	455	sắc gió xuân mưa	487
+456	456	vạt mây hoàng_hôn chiều nắng	460
+457	457	hương hoa cánh dáng hoàng_hôn miền	2250
+458	458	sông bến	934
+459	459	chân mưa	2570
+460	460	thuyền trăng thơ sóng	1479
+461	461	sông đông mắt	1005
+462	462	hương gió xuân sương	846
+463	463	phố chân dòng	410
+464	464	ruộng vai	2370
+465	465	hồng hoa	871
+466	466	thơ vầng	843
+467	467	lưng áo hè lối nắng	2363
+468	468	đời bến	334
+469	469	hương tóc sương chiều vương vàng nắng	1195
+470	470	hồng hoa trăng sóng quê_hương dòng	2462
+471	471	cau mưa	1433
+472	472	mây thơ chiều hồn	2470
+473	473	xuân bóng	1449
+474	474	cõi gió chim chiều	2586
+475	475	quê làng phố	258
+476	476	hoa màu mây chiều	2003
+477	477	cau vườn diều mùa chiều lá trầu	2503
+478	478	hoa vàng lá	309
+479	479	hồng hương nắng	442
+480	480	bến trăng hoàng_hôn mùa	383
+481	481	lối quê	313
+482	482	mây núi	2475
+483	483	cỏ sương gió	328
+484	484	cát bờ biển	1905
+485	485	gió mây sông bóng mùa dòng	1494
+486	486	hồng núi bóng dòng	734
+487	487	dáng bóng làng tre chiều	1564
+488	488	cánh thơ diều	166
+489	489	hoàng_hôn phố	1573
+490	490	đò quê bến	635
+491	491	gió bến hoàng_hôn chiều	1129
+492	492	xuân chân	485
+493	493	xuân mây sóng vương dòng nắng	1518
+494	494	hương hạt gió xuân sương	846
+495	495	áo chiều vàng nắng	1768
+496	496	mái chân	2142
+497	497	bến thuyền	2027
+498	498	mái đêm	1066
+499	499	xuân sương núi nắng	845
+500	500	thềm mưa	1562
+501	501	cát sông dòng	225
+502	502	hoa chân	1455
+503	503	đời thơ	1912
+504	504	vương xuân	794
+505	505	đêm mưa	108
+506	506	hoa cánh	914
+507	507	hương phượng duyên chiều	1602
+508	508	bờ sóng	1311
+509	509	màu đất_trời	631
+510	510	cánh sắc	571
+511	511	hoa gió sông ruộng đông chiều	884
+512	512	mây núi sóng	2591
+513	513	vạt cánh xuân biển diều chiều sóng nắng	1660
+514	514	diều cánh	920
+515	515	sông bờ	255
+516	516	mây mắt	1734
+517	517	áo sông mưa	1326
+518	518	thềm tóc sương trăng	1100
+519	519	hoàng_hôn bóng	2178
+520	520	quê hồn	1898
+521	521	núi chân tiếng	1043
+522	522	trăng vầng đêm	1280
+523	523	lối dòng	706
+524	524	hương hoa tóc mùa	1438
+525	525	sông dáng	22
+526	526	hương hoa cánh gió đêm mưa	1988
+527	527	đời quê hồn	772
+528	528	mây núi chân	1032
+529	529	gió biển	1440
+530	530	lối núi chim trăng mưa tiếng vầng	1379
+531	531	hoa xuân trăng bóng chiều	1742
+532	532	rừng đường	787
+533	533	đê sông cỏ dòng	1133
+534	534	hương gió chiều vương nắng	2067
+535	535	đêm đông sóng	147
+536	536	lúa mây sông vàng dòng	936
+537	537	chân làng tre	2349
+538	538	hương hoa vườn	696
+539	539	gió cõi trăng bóng	2297
+540	540	cau quê trầu	1739
+541	541	vạt gió lối mây trăng	1833
+542	542	áo sông vai dòng	122
+543	543	hồng cánh sông bến	133
+544	544	đêm biển đông	2436
+545	545	gió nắng	2415
+546	546	hoa sông bến	123
+547	547	bóng sông	1775
+548	548	chiều nắng	1675
+549	549	vương nắng	2350
+550	550	cánh đông lá	204
+551	551	hương sông bóng mùa tre lá nắng	2072
+552	552	biển mắt	1583
+553	553	gió chiều	1456
+554	554	phố chân sông đời	1505
+555	555	đêm biển vầng	2317
+556	556	hồng sắc xuân đất_trời	798
+557	557	cánh xuân vườn lá phố	1111
+558	558	rừng gió xuân tiếng mắt	341
+559	559	hoàng_hôn chân	28
+560	560	trăng đêm quê vàng	249
+561	561	đường tiếng	1860
+562	562	đời hồn	374
+563	563	sương lá nắng	2274
+564	564	cánh chiều nắng	2551
+565	565	lối lá dòng	2211
+566	566	hương hoa sắc xuân hè mùa nắng	786
+567	567	lưng quê	1554
+568	568	trăng quê bóng	1318
+569	569	bóng chân đêm	2035
+570	570	gió sông ruộng làng chiều	1028
+571	571	hạt nắng	1080
+572	572	rừng đường	419
+573	573	hồng hoa tóc đêm mùa	2517
+574	574	nắng xuân	1976
+575	575	lối đời	1738
+576	576	hồng gió thơ	532
+577	577	lúa cánh	2561
+578	578	bờ sông làng dòng	188
+579	579	lưng vườn bóng chiều mắt	1201
+580	580	hương thơ	1258
+581	581	cánh biển mưa nắng	2361
+582	582	rừng trăng	1808
+583	583	gió màu biển phố	2033
+584	584	sông bóng quê_hương	356
+585	585	thơ đêm	830
+586	586	hoàng_hôn nắng	393
+587	587	cánh sông bến quê mùa	97
+588	588	rừng hoa núi nắng	1963
+589	589	gió bóng quê chiều	758
+590	590	gió xuân	2195
+591	591	lưng màu quê	1554
+592	592	lưng tiếng lá vàng hồn	671
+593	593	môi vàng	1955
+594	594	xuân quê vàng nắng	1671
+595	595	cánh thơ chiều	2439
+596	596	hạt bến duyên bóng đông	1284
+597	597	hương đê gió sông ruộng	1179
+598	598	thơ quê diều làng	150
+599	599	cánh vườn nắng	212
+600	600	sông bến quê	187
+601	601	hoa gió bến	1409
+602	602	thuyền vườn sông đời sóng dòng	1821
+603	603	cánh lưng gió mây chiều	924
+604	604	sông bến đò	2395
+605	605	quê diều làng	150
+606	606	đêm biển đông	2436
+607	607	tiếng sóng	2532
+608	608	hoa tóc áo	1636
+609	609	chùa mùa lá	762
+610	610	hương lối vườn mây quê bóng chiều vương	2367
+611	611	lối dòng	706
+612	612	vườn hoa	1251
+613	613	mùa đêm	346
+614	614	xuân chim nắng	1696
+615	615	hoa mùa lá	2557
+616	616	hạt bến duyên đông chiều	1284
+617	617	đêm miền	1339
+618	618	hương hoa lưng màu núi vai	933
+619	619	hoa sắc mùa	1513
+620	620	cánh gió	697
+621	621	lưng cánh gió chiều	924
+622	622	lúa ruộng sóng	229
+623	623	trưa nắng	1638
+624	624	rừng hoa mây nắng	1963
+625	625	cánh diều tiếng	2587
+626	626	lúa thuyền bến biển diều	1151
+627	627	hương sắc	2232
+628	628	quê làng mưa nắng	184
+629	629	dáng bờ trăng bóng vai	2285
+630	630	cát trăng	1544
+631	631	vàng chân nắng	1174
+632	632	hương lá mắt	2504
+633	633	hương mây trăng	2156
+634	634	áo sông mưa	1326
+635	635	bờ vai phố	2404
+636	636	gió môi	649
+637	637	mây hoàng_hôn vàng hồn	2294
+638	638	lưng vườn chiều mắt	1201
+639	639	hoa vườn mây quê mưa nắng	1902
+640	640	đời lá	2427
+641	641	vạt hoa cánh lối đêm vàng nắng	1457
+642	642	áo hoàng_hôn đường chùa làng miền	590
+643	643	hoa chân chim đường	2005
+644	644	hương tóc bóng vương hồn	432
+645	645	hạt bến duyên bóng đông chiều	1284
+646	646	hoàng_hôn bóng quê_hương	1474
+647	647	sương lá	98
+648	648	gió bóng quê chiều	758
+649	649	lúa cò làng	2324
+650	650	núi mây	2051
+651	651	làng tiếng	1925
+652	652	gió sương nắng	2011
+653	653	gió sông đò sóng	1091
+654	654	cánh vườn bến trăng quê diều	132
+655	655	chiều biển sóng	1758
+656	656	hồng cánh	1371
+657	657	đê cõi dáng cò quê	1624
+658	658	trăng duyên chiều	2303
+659	659	hè đêm hồn	417
+660	660	sông quê diều vương	1319
+661	661	tóc bờ mùa tre	638
+662	662	cát mây biển	118
+663	663	trăng đêm	1613
+664	664	vạt mây	755
+665	665	cát màu mây biển	118
+666	666	gió tóc vương phố nắng	1748
+667	667	chân đêm biển sóng	2484
+668	668	bờ bến	2342
+669	669	lúa mây sóng	742
+670	670	gió xuân đời thơ lá	1515
+671	671	áo mây vườn mùa	2226
+672	672	đê quê bóng chiều nắng	1186
+673	673	sân chân	1132
+674	674	xuân sương chân mưa phố	1609
+675	675	đêm lá	108
+676	676	hương hoa vườn bến duyên trầu	1733
+677	677	vạt áo mây	2225
+678	678	gió mây chiều hồn	2470
+679	679	hạt sương	148
+680	680	sương bờ tre	79
+681	681	tiếng miền	610
+682	682	cõi mây biển	2437
+683	683	quê làng tre	1354
+684	684	bóng núi	1605
+685	685	bóng chiều nắng	63
+686	686	hương mái xuân quê	2104
+687	687	đêm mưa tiếng lá	596
+688	688	sông bờ làng dòng	188
+689	689	gió xuân mùa	2180
+690	690	cát bờ biển	1905
+691	691	bóng môi chiều	2171
+692	692	làng mưa nắng	184
+693	693	vạt lối tre lá nắng	1800
+694	694	thuyền cát áo bờ biển chiều	984
+695	695	đời đường bóng chiều tiếng	125
+696	696	biển sóng	177
+697	697	biển chiều	1424
+698	698	hạt đêm	2069
+699	699	hoa mái cau mây	2388
+700	700	hương đê gió ruộng	1179
+701	701	đêm mưa	627
+702	702	tiếng vàng lá	654
+703	703	phượng hè	660
+704	704	gió chiều	1310
+705	705	đời đêm miền	2579
+706	706	gió sông quê mưa	199
+707	707	tóc gió	1456
+708	708	phố hồn	993
+709	709	xuân đêm phố	2102
+710	710	gió sông chim biển	477
+711	711	mây bóng	1362
+712	712	chim miền	2491
+713	713	cánh sông bến bóng	2383
+714	714	gió mây núi sương	894
+715	715	xuân thơ	1266
+716	716	mây đời biển sóng	2447
+717	717	xuân tiếng nắng	2546
+718	718	cánh vườn bến trăng quê	132
+719	719	sương mây đông	1849
+720	720	sắc bến biển sóng tiếng dòng	1987
+721	721	hè cò tiếng trưa	1114
+722	722	áo mây đất_trời	2023
+723	723	hoa xuân chim môi mắt	1677
+724	724	áo vai	2564
+725	725	sông quê nắng	109
+726	726	lúa hương ruộng quê	1157
+727	727	hoa xuân vườn chim mưa nắng	427
+728	728	hương gió xuân núi miền	2096
+729	729	vạt áo mưa	2147
+730	730	lối quê miền	704
+731	731	hạt trăng đêm	2069
+732	732	hồng hoa	179
+733	733	cát bờ biển	1905
+734	734	đêm nắng	42
+735	735	hoa gió sông cỏ lá dòng	1443
+736	736	áo sương tiếng	1375
+737	737	tiếng diều	183
+738	738	gió xuân chim nắng	607
+739	739	gió hè đêm	387
+740	740	đường cõi	174
+741	741	đê cánh lối chân bến đò mưa mắt	852
+742	742	xuân quê	507
+743	743	đông mưa chiều	1946
+744	744	vạt gió đường chiều vàng nắng	1308
+745	745	hoa trăng bóng quê vai vương hồn	2129
+746	746	sương hồn	85
+747	747	mây dòng mắt	1676
+748	748	chiều biển sóng	1143
+749	749	hoa đêm mưa	2366
+750	750	đê thuyền sông quê nắng	141
+751	751	đò tiếng bến	1049
+752	752	nắng chiều	2185
+753	753	núi mây bóng mắt	1548
+754	754	lúa mùa tiếng	1831
+755	755	thuyền sông trăng quê sóng dòng	1353
+756	756	gió quê trưa	1232
+757	757	sông đời	740
+758	758	gió vầng	172
+759	759	mưa mắt	896
+760	760	cánh sông quê_hương dòng	2543
+761	761	thềm cánh vườn trăng đêm	577
+762	762	hoa sắc	1001
+763	763	cánh lưng xuân đời	2527
+764	764	hoa áo sương chiều vương	2333
+765	765	gió nắng	692
+766	766	mái bờ quê tre tiếng trưa	1167
+767	767	gió lá	558
+768	768	hương lối vườn mây quê bóng chiều vương	2367
+769	769	mây sông bờ	1009
+770	770	sông làng	1633
+771	771	trưa bóng bến	412
+772	772	chim diều nắng hồn	533
+773	773	xuân thơ	1155
+774	774	rừng gió cánh chiều lá	1398
+775	775	hồng phượng duyên chiều	1602
+776	776	tiếng vàng	987
+777	777	đê bóng quê làng chiều nắng	1186
+778	778	cỏ mùa đông xuân	1322
+779	779	gió mưa	1010
+780	780	cánh mưa nắng	741
+781	781	màu sân	2136
+782	782	gió mây trăng	552
+783	783	gió bóng vàng lá quê_hương	941
+784	784	màu đời	2136
+785	785	thuyền áo sông duyên quê	537
+786	786	biển chiều	6
+787	787	lưng chiều dòng	523
+788	788	màu sông dòng	2097
+789	789	gió sương đường dòng nắng	1256
+790	790	trăng đêm quê làng vàng	249
+791	791	bến sông dòng chiều	469
+792	792	rừng đường	419
+793	793	hoa mây vườn ruộng mưa nắng	1902
+794	794	hoa mùa mắt	1277
+795	795	trăng cò tre lá	1528
+796	796	thềm mùa đông nắng	1295
+797	797	gió chiều	2241
+798	798	đời quê_hương nắng	752
+799	799	dáng mùa	2141
+800	800	gió cõi chiều	2496
+801	801	hoa vàng	1781
+802	802	cánh núi cò bóng	1700
+803	803	hương sông thơ tiếng	1403
+804	804	bến thuyền	541
+805	805	hoa trăng	272
+806	806	chiều mưa	1433
+807	807	mây trăng đêm	1613
+808	808	lúa dòng	1064
+809	809	mái bờ quê tre tiếng trưa	1167
+810	810	vàng hoa mùa gió	1521
+811	811	cánh chiều nắng	2551
+812	812	duyên quê mưa chiều	10
+813	813	trăng bóng	289
+814	814	vườn chim	1003
+815	815	cò làng tre	2286
+816	816	cỏ mưa	801
+817	817	màu quê vàng	1419
+818	818	xuân đường quê nắng	1671
+819	819	hương phượng lối mùa	2257
+820	820	hoa vườn sông bến dòng	2037
+821	821	đò bóng chiều mắt	1397
+822	822	hương sông thơ tiếng	1403
+823	823	bờ sông	777
+824	824	chiều mưa màu	2021
+825	825	tóc áo chiều	1841
+826	826	hoa gió sông lá dòng	1443
+827	827	tiếng nắng	49
+828	828	cánh trầu	569
+829	829	đường bóng	1896
+830	830	sương mây vàng lá	556
+831	831	phượng áo	2009
+832	832	sông dòng	2097
+833	833	lúa đường nắng	699
+834	834	đê gió bờ chân chiều cỏ	1324
+835	835	hương đời	2464
+836	836	mái đời trưa mắt	1534
+837	837	mây gió chiều	1310
+838	838	xuân áo bóng mùa vàng phố mắt	2077
+839	839	sông tre	777
+840	840	gió chiều dáng sông tóc đường quê sóng	630
+841	841	hương chim quê nắng	2176
+842	842	hương mái xuân quê	2104
+843	843	hoa đường mùa	1538
+844	844	gió sông bờ bóng diều chiều tiếng	1154
+845	845	sương nắng	1817
+846	846	đời xuân sóng	1682
+847	847	lối nắng	313
+848	848	gió môi mưa hồn	1105
+849	849	chim cỏ	674
+850	850	tre tiếng nắng	1727
+851	851	bờ sông bến	1421
+852	852	hoa mùa phố	1883
+853	853	lá mùa chiều	1791
+854	854	áo mây	2225
+855	855	hoa xuân đường	832
+856	856	mùa lá	2557
+857	857	lối đời	1738
+858	858	sông đêm sóng miền	589
+859	859	sông thơ	181
+860	860	trăng sông	2540
+861	861	hoa xuân vườn chim môi mắt	1677
+862	862	gió sương vương chiều vàng lá hồn	1035
+863	863	gió cát mây sông chân	2
+864	864	hồng gió	35
+865	865	hoa phố	861
+866	866	tóc gió chiều	1456
+867	867	hương gió đời quê chiều	1563
+868	868	sắc sông trăng đêm	2578
+869	869	mây gió miền	1685
+870	870	tiếng vàng	464
+871	871	gió sương đường dòng nắng	1256
+872	872	sương cò	1087
+873	873	cánh hè nắng	134
+874	874	gió mưa	1366
+875	875	hồng hoa tóc đêm mùa	2517
+876	876	sông bến đò	867
+877	877	vạt chân hoàng_hôn bóng chiều hồn	664
+878	878	mùa đông xuân	1322
+879	879	sông bờ	62
+880	880	sương cò	2158
+881	881	sóng tiếng	1694
+882	882	hương sông màu	1344
+883	883	cát bờ sóng	2422
+884	884	hoa mây ruộng quê mưa nắng	1902
+885	885	vàng sương	2114
+886	886	sông bờ dòng	62
+887	887	cánh ruộng diều trầu mắt	379
+888	888	biển đông	2436
+889	889	lối núi mây	137
+890	890	vạt hè mưa chiều tiếng	1086
+891	891	hồng hoa xuân	871
+892	892	hoa xuân sông trăng chiều	1742
+893	893	xuân hồn	2107
+894	894	hương duyên	128
+895	895	đê mái màu bờ	1923
+896	896	hoa sông bờ bến mùa sóng	2132
+897	897	đời dòng	2315
+898	898	thuyền sông chân bến thơ	2078
+899	899	hoa sắc gió thuyền sóng vàng lá	616
+900	900	hương hoa cau tóc mùa	1438
+901	901	đất_trời thơ	528
+902	902	hương lối chân quê đông chiều	1755
+903	903	gió mây	552
+904	904	hồn đời quê	772
+905	905	gió thơ mùa hồn mắt	554
+906	906	xuân sương mùa nắng cỏ	450
+907	907	lưng vườn bóng chiều mắt	1201
+908	908	gió bến đò	1336
+909	909	lúa sương tre	79
+910	910	gió chiều	1406
+911	911	sương nắng	2011
+912	912	đêm tiếng vàng	464
+913	913	hương xuân mùa môi mắt	1234
+914	914	chim hè sắc làng	1021
+915	915	chân quê làng	2349
+916	916	hoa xuân màu chiều mắt	1929
+917	917	sông bờ dòng	62
+918	918	đời dòng mắt	2315
+919	919	bờ sông tre	777
+920	920	núi sông đò phố	251
+921	921	đò bến duyên	78
+922	922	đêm mưa tiếng	596
+923	923	sông mùa dòng	879
+924	924	dáng trăng chùa tiếng	2057
+925	925	gió bóng vàng lá quê_hương	941
+926	926	xuân áo bóng mùa phố mắt	2077
+927	927	hương biển	15
+928	928	hoa thuyền xuân chân mùa miền	1756
+929	929	xuân tiếng	493
+930	930	hạt hồn	1935
+931	931	rừng gió cánh	1493
+932	932	biển sóng	576
+933	933	sông đêm đường quê mưa	808
+934	934	thềm núi hoàng_hôn môi	1642
+935	935	quê đời	1045
+936	936	hồng hương lúa nắng	442
+937	937	hồng hoa đất_trời cỏ miền	1204
+938	938	sương trăng	1081
+939	939	tiếng thơ	1304
+940	940	bến trăng sóng vầng nắng	1974
+941	941	hương lối vườn mây bóng quê chiều vương	2367
+942	942	hồng xuân phượng sông bến đò	382
+943	943	sương mây đông	1849
+944	944	hoa tóc áo	1636
+945	945	hương gió chiều tóc mây đất_trời cỏ	2254
+946	946	tóc áo thơ chiều nắng	2258
+947	947	cánh xuân	2125
+948	948	màu phố hồn	2065
+949	949	cánh rừng núi chân	2403
+950	950	lưng chùa vầng	1993
+951	951	thuyền bờ bến miền	1203
+952	952	cát màu bờ biển	954
+953	953	mái đời mắt	1534
+954	954	màu đất_trời	803
+955	955	gió quê mưa	1232
+956	956	sắc mây mưa vầng	435
+957	957	mái mùa	918
+958	958	vườn bóng chiều vàng	2374
+959	959	sông bờ bến chân quê hồn	408
+960	960	biển sóng	177
+961	961	gió xuân	1643
+962	962	xuân bờ	1674
+963	963	vầng sương hoàng_hôn	1783
+964	964	vạt cánh xuân biển bóng diều chiều sóng	1660
+965	965	hạt hồn	1935
+966	966	vầng trăng	2365
+967	967	hè trưa	1039
+968	968	rừng cõi núi	908
+969	969	bến mùa	298
+970	970	gió trưa nắng	1347
+971	971	màu quê vàng	1419
+972	972	hương gió quê	474
+973	973	cánh phượng áo tiếng	2001
+974	974	gió sương tiếng	950
+975	975	đời bến mùa đông	1070
+976	976	cát trăng biển sóng	1260
+977	977	hoa đời	2583
+978	978	cánh vườn	2355
+979	979	hồng hương sắc xuân	798
+980	980	hoa chùa chiều tiếng	2278
+981	981	đời đất_trời	291
+982	982	hương sắc trăng vầng hồn miền	622
+983	983	gió núi mưa dòng	1959
+984	984	hoa bến nắng	1645
+985	985	tiếng cánh lá chim	721
+986	986	cát sông phố dòng nắng	371
+987	987	hương gió tóc chiều mây đất_trời	2254
+988	988	đê cau chân đường mùa làng	1731
+989	989	chân tiếng	1043
+990	990	cõi cánh hoàng_hôn	1360
+991	991	hoa hoàng_hôn chiều	881
+992	992	hoa trăng vàng hồn	400
+993	993	rừng chân đường	787
+994	994	mùa mưa nắng phố	46
+995	995	bờ sông chân bến quê hồn	408
+996	996	trăng mưa chiều vương	2205
+997	997	xuân thuyền chiều trăng bến bóng sóng	2431
+998	998	gió môi mưa hồn	1105
+999	999	sông đời bến thơ dòng	1772
+1000	1000	bến quê	542
+1001	1001	vườn xuân	2554
+1002	1002	sắc thơ quê dòng hồn	375
+1003	1003	cát miền	281
+1004	1004	hoa mây chim nắng	614
+1005	1005	cánh trầu	569
+1006	1006	xuân chân mắt	59
+1007	1007	gió mùa đông	1068
+1008	1008	thềm hoa xuân nắng	1667
+1009	1009	thuyền sông bến bóng	19
+1010	1010	đường bóng chiều lá	1828
+1011	1011	chim trăng	682
+1012	1012	hương đường quê	2085
+1013	1013	hương hè bóng vàng	2048
+1014	1014	xuân vàng	453
+1015	1015	đường sông dòng bến	1149
+1016	1016	cõi vàng miền	2354
+1017	1017	tiếng chim	347
+1018	1018	chân vương	1221
+1019	1019	cõi xuân hồn	2107
+1020	1020	hoa cánh gió trăng đêm	866
+1021	1021	vạt quê mùa	1560
+1022	1022	mưa tiếng	1382
+1023	1023	quê mưa	1177
+1024	1024	bóng chiều nắng	63
+1025	1025	hương sắc đêm miền	874
+1026	1026	gió đời hồn	1899
+1027	1027	phượng chân tiếng lá	729
+1028	1028	vạt gió mây đông nắng	1352
+1029	1029	mây đời trăng quê sóng vầng vai	628
+1030	1030	lúa hoa cánh mây sóng	604
+1031	1031	mái thuyền sông bến đò mùa đông mưa	901
+1032	1032	bóng đời	1497
+1033	1033	áo cò mùa	1859
+1034	1034	duyên thuyền	2429
+1035	1035	hoàng_hôn vàng hồn	2294
+1036	1036	đường vai	1942
+1037	1037	đê gió sông ruộng	1179
+1038	1038	đường chân	1242
+1039	1039	đê bờ chân hoàng_hôn quê bóng	1349
+1040	1040	sương đò tiếng	1709
+1041	1041	lưng hè diều tiếng trưa	969
+1042	1042	gió môi mưa hồn	1105
+1043	1043	bờ ruộng môi vai nắng	2460
+1044	1044	lúa hương vàng	1212
+1045	1045	cánh chim	2491
+1046	1046	chim vàng lá	1327
+1047	1047	núi sông	1156
+1048	1048	biển đông	2420
+1049	1049	gió màu phượng biển phố	2033
+1050	1050	diều chiều nắng	1053
+1051	1051	sông bến	1865
+1052	1052	rừng lưng sương mây trăng vầng	50
+1053	1053	thềm chân	2081
+1054	1054	dáng chiều vàng	1065
+1055	1055	hạt mây ruộng làng mưa	2306
+1056	1056	đời đường sóng	2028
+1057	1057	núi mây	2450
+1058	1058	hoa sắc dáng	1641
+1059	1059	làng hoa	1220
+1060	1060	hoa đời	2323
+1061	1061	đời đất_trời dòng	1166
+1062	1062	hương gió tóc mây chiều cỏ	2254
+1063	1063	làng lá	2200
+1064	1064	sắc sông thơ quê dòng hồn	375
+1065	1065	sông bến đêm trăng vai	1621
+1066	1066	sông quê	892
+1067	1067	vạt gió sắc diều trưa nắng	1588
+1068	1068	quê chân sóng	1611
+1069	1069	gió mây sông sóng	1543
+1070	1070	lưng đông	1102
+1071	1071	chùa mưa	488
+1072	1072	áo bến chiều	369
+1073	1073	hoa gió mây nắng	2210
+1074	1074	hương trăng	315
+1075	1075	hoa gió cánh trăng đêm	866
+1076	1076	biển chiều nắng	1504
+1077	1077	mây trăng	1613
+1078	1078	quê sắc xuân	2143
+1079	1079	núi đêm	670
+1080	1080	thuyền áo sóng miền	57
+1081	1081	lúa tiếng mùa	1146
+1082	1082	tre tiếng	1622
+1083	1083	biển quê	2174
+1084	1084	chiều tiếng phố	283
+1085	1085	sương trăng	1081
+1086	1086	núi mây sóng	2591
+1087	1087	gió phượng biển phố	2033
+1088	1088	hương biển	2386
+1089	1089	rừng vàng lá	1388
+1090	1090	hoa lối mây	441
+1091	1091	vầng nắng	1913
+1092	1092	lối dòng	2211
+1093	1093	thơ quê diều làng	150
+1094	1094	trăng thơ quê	1230
+1095	1095	hương quê tiếng dòng	2076
+1096	1096	vạt áo hè vườn đông chiều vai nắng	956
+1097	1097	tiếng nắng	1547
+1098	1098	núi chân rừng	2403
+1099	1099	tóc dáng chiều vàng	1065
+1100	1100	bờ tiếng vàng dòng	563
+1101	1101	cánh xuân màu chiều mắt	1929
+1102	1102	hương đường quê cỏ vương	77
+1103	1103	sân vàng lá	2325
+1104	1104	vạt biển chiều nắng mắt	2307
+1105	1105	bóng sóng	1461
+1106	1106	dáng quê	2116
+1107	1107	chim quê diều nắng	533
+1108	1108	gió mùa	1672
+1109	1109	hồng gió	35
+1110	1110	hoa mùa	245
+1111	1111	chùa bến	503
+1112	1112	quê_hương xuân	1668
+1113	1113	hương hạt sông	949
+1114	1114	thuyền bến chiều	399
+1115	1115	gió tóc đông mắt	821
+1116	1116	hoa sắc xuân ruộng nắng hồn	1075
+1117	1117	sương mây bóng chiều	2223
+1118	1118	hoa xuân chim	209
+1119	1119	vạt tóc nắng	1425
+1120	1120	hồng gió thơ	210
+1121	1121	tiếng trăng vàng	987
+1122	1122	trưa nắng	1638
