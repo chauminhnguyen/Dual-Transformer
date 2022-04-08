@@ -78,4 +78,4 @@ I used [GPT-2](https://huggingface.co/gpt2) for Keywords-to-Poem model.
 
 ## Acknowledgement
 
-We thank the authors of [Query2Label](https://github.com/SlongLiu/query2labels), [GPT-2](https://huggingface.co/gpt2) for facilitating such an opportunity for us to create this framework.
+We thank the authors of [Query2Label](https://github.com/SlongLiu/query2labels), [GPT-2](https://huggingface.co/gpt2) for facilitating such an opportunity for us to create this framework. Additionally, we thank [FPT](https://github.com/fsoft-ailab/Poem-Generator) for the building dataset process.
