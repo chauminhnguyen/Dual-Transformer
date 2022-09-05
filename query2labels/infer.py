@@ -68,8 +68,8 @@ def parser_args():
                         help='number of data loading workers (default: 8)')
     parser.add_argument('-p', '--print-freq', default=10, type=int,
                         metavar='N', help='print frequency (default: 10)')
-    # parser.add_argument('--resume', type=str, metavar='PATH',
-    #                     help='path to latest checkpoint (default: none)')
+    parser.add_argument('--resume', type=str, metavar='PATH',
+                        help='path to latest checkpoint (default: none)')
 
     parser.add_argument('--pretrained', dest='pretrained', action='store_true',
                         help='use pre-trained model. default is False. ')
@@ -214,8 +214,8 @@ class Query2Label():
         return 
 
     @torch.no_grad()
-    def predict(self, image):
-        # image = Image.open(image_path).convert("RGB")
+    def predict(self, image_path):
+        image = Image.open(image_path).convert("RGB")
         test_data_transform = transforms.Compose([
             transforms.Resize((self.args.img_size, self.args.img_size)),
             transforms.ToTensor()])
@@ -228,8 +228,9 @@ class Query2Label():
             with torch.cuda.amp.autocast(enabled=self.args.amp):
                 images = test_data_transform(image).unsqueeze(0)
                 output = self.model(images)
-
-        output = output * torch.gt(output, 0)
+        
+        output = nn.functional.sigmoid(output)
+        output = output * torch.gt(output, 0.5)
         output = torch.nonzero(output, as_tuple=True)
         res = []
         for ele in output[1]:
