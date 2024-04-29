@@ -2,8 +2,6 @@
 
 Dual-Transformer is the framework with the input is an scenery image and the output is Vietnamese six-eight poem. The generated poem is related to the input image by containing the objects from the input image.
 
-The code has been put on [HuggingFace's Space](https://huggingface.co/spaces/crylake/img2poem)
-
 ## Installation
 
 1. Clone the repository:
